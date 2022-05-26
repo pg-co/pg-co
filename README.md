@@ -9,7 +9,10 @@ Im a Developer from Germany who likes challenges 😎
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/727262/40395108-6bcc327a-5e1e-11e8-9f76-3917983b8563.png" />
 <img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/ac65e63b4387e51690000136a41369b2069357de573eb17b1f575ed58d09d241/68747470733a2f2f332e62702e626c6f6773706f742e636f6d2f2d61376a505664466b3948772f575f5865544a58364a79492f41414141414141414332632f484374785030775353733077454d4b4a4f597137706976454a615356696e393267434c63424741732f73313630302f706f7765727368656c6c2e706e67" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" /> <br />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" /> <br />
+<img align="left" alt="C#" width="26px" src="[https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png)" /> <br />
+
+
 
 ### Tools:
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
